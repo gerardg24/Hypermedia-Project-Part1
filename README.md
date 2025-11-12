@@ -23,3 +23,7 @@ In contrast, the right "Content Panel" uses a neutral light-grey (`#b0b0b0`) bac
 The primary accent color is a vibrant yellow (`#ffff82`). This was chosen specifically to add "life" and draw the eye. It is used sparingly but effectively on the user's title (`#Dev`) and as a thick `border-bottom` on all section headers (`.capcalera-seccio`). These headers themselves use a dark gradient to stand out from the light background.
 
 For typography, the serif font "Georgia" is used site-wide. This was a deliberate choice over a standard sans-serif font to convey a sense of professionalism, elegance, and reliability. Finally, subtle micro-interactions, like hover effects on links and project cards, provide user feedback and contribute to the dynamic feel of the page.
+
+---
+
+Public link --> https://gerardg24.github.io/Hypermedia-Project-Part1/
