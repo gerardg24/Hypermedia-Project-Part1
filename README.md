@@ -27,4 +27,5 @@ For typography, the serif font "Georgia" is used site-wide. This was a deliberat
 ---
 
 Public link --> https://gerardg24.github.io/Hypermedia-Project-Part1/
+
 Figma link  --> https://www.figma.com/design/ZYDQFL8oLfekMRY9stiZj6/Portfolio?t=6dCPbyJtm3OWwbCm-1
